@@ -20,15 +20,15 @@
 
 <plugin
       xmlns="http://apache.org/cordova/ns/plugins/1.0"
-      id="firefly-cordova-plugin-themeablebrowser"
+      id="cordova-plugin-custombrowser"
       version="0.5.0">
 
-    <name>ThemeableBrowser</name>
+    <name>custombrowser</name>
     <description>Cordova ThemeableBrowser Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,themeablebrowser</keywords>
-    <repo>https://github.com/imloama/cordova-plugin-themeablebrowser.git</repo>
-    <issue>https://github.com/imloama/cordova-plugin-themeablebrowser/issues</issue>
+    <repo>https://github.com/karthikn21/cordova-plugin-custombrowser</repo>
+    <issue>https://github.com/karthikn21/cordova-plugin-custombrowser/issues</issue>
 
     <engines>
       <engine name="cordova" version=">=3.1.0" />

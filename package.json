@@ -1,9 +1,9 @@
 {
-  "name": "firefly-cordova-plugin-themeablebrowser",
+  "name": "cordova-plugin-custombrowser",
   "version": "0.4.0",
   "description": "Cordova ThemeableBrowser Plugin",
   "cordova": {
-    "id": "firefly-cordova-plugin-themeablebrowser",
+    "id": "cordova-plugin-custombrowser",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imloama/cordova-plugin-themeablebrowser.git"
+    "url": "git+https://github.com/karthikn21/cordova-plugin-custombrowser"
   },
   "keywords": [
     "cordova",
@@ -44,7 +44,7 @@
   "readme": "",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/imloama/cordova-plugin-themeablebrowser/issues"
+    "url": "https://github.com/karthikn21/cordova-plugin-custombrowser/issues"
   },
-  "homepage": "https://github.com/imloama/cordova-plugin-themeablebrowser#readme"
+  "homepage": "https://github.com/karthikn21/cordova-plugin-custombrowser#readme"
 }
