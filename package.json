@@ -1,0 +1,50 @@
+{
+  "name": "firefly-cordova-plugin-themeablebrowser",
+  "version": "0.4.0",
+  "description": "Cordova ThemeableBrowser Plugin",
+  "cordova": {
+    "id": "firefly-cordova-plugin-themeablebrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imloama/cordova-plugin-themeablebrowser.git"
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "themeablebrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "license": "Apache 2.0",
+  "gitHead": "23de7bf8f9bacaa0387d2e211e4b26376503ddda",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/imloama/cordova-plugin-themeablebrowser/issues"
+  },
+  "homepage": "https://github.com/imloama/cordova-plugin-themeablebrowser#readme"
+}
