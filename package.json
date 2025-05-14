@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-custombrowser",
-  "version": "0.4.0",
-  "description": "Cordova ThemeableBrowser Plugin",
+  "version": "1.0.0",
+  "description": "Cordova CustomBrowser Plugin",
   "cordova": {
     "id": "cordova-plugin-custombrowser",
     "platforms": [
@@ -25,7 +25,7 @@
     "in",
     "app",
     "browser",
-    "themeablebrowser",
+    "custombrowser",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
